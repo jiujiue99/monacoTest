@@ -4,3 +4,7 @@
     width: 600px;
     height: 300px;
 }
+
+.lm_tab.lm_active, .lm_popout {
+    display: none;
+}
